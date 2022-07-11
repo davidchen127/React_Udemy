@@ -1,0 +1,24 @@
+{
+  "feedback": [
+    {
+      "id": 1,
+      "rating": 7,
+      "text": "i really love the idea"
+    },
+    {
+      "id": 2,
+      "rating": 3,
+      "text": "it is basically garbage"
+    },
+    {
+      "id": 3,
+      "rating": 9,
+      "text": "absolutely love it"
+    },
+    {
+      "text": "new backend test updated",
+      "rating": 2,
+      "id": 4
+    }
+  ]
+}
